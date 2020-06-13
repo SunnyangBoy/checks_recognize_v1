@@ -1,0 +1,5 @@
+rotate_model = './pths/rotate.pth'
+detect_model_one = './pths/model_mode1_epoch_24.pth'
+detect_model_two = './pths/model_epoch_mode2_12.pth'
+detect_model_three = './pths/model3_epoch_14.pth'
+stamp_model = './pths/model_epoch_20.pth'
